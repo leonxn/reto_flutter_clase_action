@@ -1,6 +1,7 @@
 # reto_presentacion
 
-A new Flutter project.
+![image](https://github.com/leonxn/reto_flutter_clase_action/assets/16175082/5d3f746e-a946-42bd-b65e-6a62725355dc)
+
 
 ## Getting Started
 
